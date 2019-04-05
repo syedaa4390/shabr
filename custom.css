@@ -3,5 +3,17 @@ html,
 h1{
     font-family: "Acme";
     text-align: center;
-    font-size: 100;
+    font-size: 100px;
+}
+
+h2{
+    font-family: "IBM+Plex+Serif";
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+    font-family: "IBM+Plex+Sans";
+    text-align: center;
+    font-size: 25px;
 }

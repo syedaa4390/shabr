@@ -2,6 +2,7 @@ html,
 
 h1{
     font-family: 'Lobster', cursive;
+}
 
 h2{
     font-family: "IBM+Plex+Serif";
@@ -22,7 +23,7 @@ li{
 
 h4{
     font-family: "IBM+Plex+Sans";
-    text-align: left;
+    text-align: center;
 }
 
 h3{

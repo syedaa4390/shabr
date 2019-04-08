@@ -32,11 +32,11 @@ h3{
 }
 
 strong{
-    font-family: "IBM+Plex+Serif"
+    font-family: "IBM+Plex+Serif";
 }
 
 em{
     font-size: 40px;
-    text-align: left;
+    text-align: center;
     font-family: 'Courgette', cursive;
 }

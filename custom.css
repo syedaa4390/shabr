@@ -1,8 +1,7 @@
 html,
 
 h1{
-    font-family: "Acme";
-    text-align: center;
+    font-family: 'Lobster', cursive;
 }
 
 h2{
@@ -34,4 +33,10 @@ h3{
 
 strong{
     font-family: "IBM+Plex+Serif"
+}
+
+em{
+    font-size: 40px;
+    text-align: left;
+    font-family: 'Courgette', cursive;
 }
